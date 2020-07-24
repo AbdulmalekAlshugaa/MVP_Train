@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TrainSystem</string>
+    <string name="to_place">To Place</string>
+    <string name="select_to_place">Select to place</string>
+    <string name="UserData">UserData</string>
+    <string name="logout">logout</string>
+    <string name="purchase">Purchase</string>
+
+
+    <string-array name="countries_array">
+        <item>United States</item>
+        <item>United States Minor Outlying Islands</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Vatican City</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis and Futuna</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Yugoslavia</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+</resources>

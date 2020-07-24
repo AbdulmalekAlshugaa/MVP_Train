@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350800802987",
+    "firebase_url": "https://trainsystem-697b2.firebaseio.com",
+    "project_id": "trainsystem-697b2",
+    "storage_bucket": "trainsystem-697b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350800802987:android:92264e0e985160b7d833ee",
+        "android_client_info": {
+          "package_name": "com.example.trainsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350800802987-pnkg2jiq0qkffjmn3secs9b28g740f5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trainsystem",
+            "certificate_hash": "0b04e728c55bd5e9fdc98cb7f67a411aab4e8aa5"
+          }
+        },
+        {
+          "client_id": "350800802987-uag4ldrqips3bnn8jtmgs4jvb4q8u1ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ObZQCXQPyCo5mRe3bp1v4gWETktDZNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350800802987-uag4ldrqips3bnn8jtmgs4jvb4q8u1ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
